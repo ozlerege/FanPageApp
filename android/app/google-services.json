@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "563514733043",
+    "project_id": "fan-page-app-6adc2",
+    "storage_bucket": "fan-page-app-6adc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563514733043:android:6062b01f02a67459e0e286",
+        "android_client_info": {
+          "package_name": "co.egeozler_m1_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563514733043-0uidhqig3084v4nlsgnaefda4rqf0anp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnRGJ-EZuScoQwYt_TJaYsmqJ01445NZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563514733043-0uidhqig3084v4nlsgnaefda4rqf0anp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563514733043-57lsd89bhj0p6h31j031stgff7544pn3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.EgeOzler.mobileApp1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
